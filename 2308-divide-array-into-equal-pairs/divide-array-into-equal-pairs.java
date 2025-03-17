@@ -8,6 +8,7 @@ class Solution {
         for(int i :nums){
             if(count.get(i)%2!=0){
                 yes = false;
+                break;
             }
         }
         return yes;
