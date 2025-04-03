@@ -1,15 +1,21 @@
-// Alternative Java Solution (Optimized Space)
 class Solution {
     public long maximumTripletValue(int[] nums) {
         int n = nums.length;
-        long maxDiff = 0;
-        long maxLeft = 0;
-        long maxVal = 0;
-        for (int i = 0; i < n; ++i) {
-            maxVal = Math.max(maxVal, maxDiff * nums[i]);
-            maxDiff = Math.max(maxDiff, maxLeft - nums[i]);
-            maxLeft = Math.max(maxLeft, nums[i]);
+        // Step-1: Find right_max for all indices
+        int[] rightMax = new int[n];
+        int maxVal = nums[n - 1]; // last element
+        for (int i = n - 2; i > 0; --i) {
+            rightMax[i] = maxVal;
+            maxVal = Math.max(maxVal, nums[i]);
         }
-        return maxVal;
+
+        // Step-2: Find max_triplet
+        long maxTriplet = 0;
+        maxVal = nums[0];
+        for (int i = 1; i < n - 1; ++i) {
+            maxTriplet = Math.max(maxTriplet, (long)(maxVal - nums[i]) * rightMax[i]);
+            maxVal = Math.max(maxVal, nums[i]);
+        }
+        return maxTriplet;
     }
 }
