@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
