@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
