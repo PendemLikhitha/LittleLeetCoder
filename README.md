@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
 | ------- |
