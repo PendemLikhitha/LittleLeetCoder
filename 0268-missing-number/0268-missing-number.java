@@ -1,10 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
-        int total = n*(n+1)/2;
-        for(int i:nums){
-            total-=i;
+        int xor = 0;
+        for(int i=0;i<=n;i++){
+            xor^=i;
         }
-        return total;
+        for(int j:nums){
+            xor^=j;
+        }
+        return xor;
     }
 }
