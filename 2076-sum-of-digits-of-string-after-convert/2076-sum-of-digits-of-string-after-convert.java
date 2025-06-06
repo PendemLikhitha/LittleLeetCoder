@@ -1,19 +1,24 @@
 class Solution {
     public int getLucky(String s, int k) {
-        String num = "";
-        for(char c:s.toCharArray()){
-            num+=Integer.toString(c-'a'+1);
+       int curNum = 0;
+       for(char c:s.toCharArray()){
+        int position = c-'a'+1;
+        while(position>0){
+            curNum+=position%10;
+            position/=10;
         }
-        while(k-->0){
-          int sum = 0;
-          for(char digit:num.toCharArray()){
-            sum += digit-'0';
-          }
-          if(sum<10){
-            return sum;
-          }
-          num = Integer.toString(sum);
-        }
-        return Integer.parseInt(num);
+       }
+       for(int i=1;i<k;i++){
+            int sum = 0;
+            while(curNum>0){
+                sum+=curNum%10;
+                curNum/=10;
+            }
+            curNum = sum;
+            if(curNum<10){
+                break;
+            }
+       }
+       return curNum;
     }
 }
