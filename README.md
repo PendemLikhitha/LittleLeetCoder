@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0436-find-right-interval) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1013-fibonacci-number) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 ## String Matching
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
