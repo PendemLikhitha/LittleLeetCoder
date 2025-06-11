@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
