@@ -1,9 +1,14 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int result = 0;
+        Map<Integer,Integer> freq = new HashMap<>();
         for(int i:nums){
-            result^=i;
+            freq.put(i,freq.getOrDefault(i,0)+1);
         }
-        return result;
+        for(int i:nums){
+            if(freq.get(i)==1){
+                return i;
+            }
+        }
+        return 0;
     }
 }
