@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0322-coin-change) |
 | [0436-find-right-interval](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0436-find-right-interval) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
