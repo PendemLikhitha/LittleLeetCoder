@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 ## Recursion
