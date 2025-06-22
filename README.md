@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0322-coin-change) |
 | [0436-find-right-interval](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
