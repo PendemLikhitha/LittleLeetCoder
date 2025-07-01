@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0742-to-lower-case) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3617-find-the-original-typed-string-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
 | ------- |
