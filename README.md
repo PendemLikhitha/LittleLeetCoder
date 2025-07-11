@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0742-to-lower-case) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0415-add-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
