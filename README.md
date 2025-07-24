@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0155-min-stack) |
@@ -237,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
