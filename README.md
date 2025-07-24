@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3617-find-the-original-typed-string-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
