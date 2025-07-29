@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
