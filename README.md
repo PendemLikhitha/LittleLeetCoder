@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1651-shuffle-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1651-shuffle-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1651-shuffle-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1651-shuffle-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3617-find-the-original-typed-string-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
