@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1651-shuffle-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3600-find-the-k-th-character-in-string-game-i) |
