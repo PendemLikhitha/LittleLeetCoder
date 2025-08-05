@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0084-largest-rectangle-in-histogram) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0121-best-time-to-buy-and-sell-stock) |
