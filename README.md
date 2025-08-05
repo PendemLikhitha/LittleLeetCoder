@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1651-shuffle-string) |
+| [1791-richest-customer-wealth](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
