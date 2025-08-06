@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1651-shuffle-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3617-find-the-original-typed-string-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
