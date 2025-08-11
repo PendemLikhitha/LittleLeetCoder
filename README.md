@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1651-shuffle-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0940-fruit-into-baskets](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0940-fruit-into-baskets) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
