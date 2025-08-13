@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
