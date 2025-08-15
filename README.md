@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1013-fibonacci-number) |
@@ -192,12 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
