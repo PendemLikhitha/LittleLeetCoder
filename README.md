@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
