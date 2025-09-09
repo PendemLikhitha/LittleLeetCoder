@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2507-number-of-common-factors) |
 ## String Matching
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/PendemLikhitha/LittleLeetCoder/tree/master/2507-number-of-common-factors) |
 ## Queue
 |  |
 | ------- |
